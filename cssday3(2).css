@@ -1,0 +1,35 @@
+.a{
+    color: brown;
+    text-align: right;
+    text-decoration: underline;
+    text-shadow: 10px 10px 5px black
+}
+
+.b{
+    color: darkorange;
+    text-align: left;
+    text-decoration: overline;
+    text-shadow: 5px 3px 2px black;
+}
+
+.c{
+    box-shadow: 4px 3px 3px red;
+}
+
+.d{
+    box-shadow: 4px 3px 3px blueviolet;
+}
+
+.e{
+    box-shadow: 4px 3px 3px lightseagreen;
+}
+
+.f{
+    width: 250px;
+    background:linear-gradient(orange, white, green);
+    box-shadow: 4px 3px 2px blue;
+}
+
+h3{
+    text-wrap-style: 20px;
+}
